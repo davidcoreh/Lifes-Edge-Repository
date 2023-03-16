@@ -9,7 +9,8 @@
 body {
     font-family: 'Work Sans', sans-serif;
     font-weight: 400;
-    color: #3a3a3a;
+    color: beige;
+    background-color: #3a3a3a;
 }
 
 /* Heading and logo */
@@ -18,12 +19,13 @@ h1, h2 {
     font-family: 'Bebas Neue', sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: black;
+    color: beige;
 }
 
 #main-heading {
     float: left;
     font-size: 300%;
+    padding: 20px;
 }
 
 /* navigation menu */
@@ -31,15 +33,17 @@ h1, h2 {
 #nav-menu {
     font-size: 170%;
     letter-spacing: 3px;
+    padding: 20px;
 }
 
 #nav-menu li {
     float: right;
     list-style-type: none;
     margin-right: 40px;
+    color: beige;
 }
 
 #nav-menu li:hover {
-    color: black;
-    border-bottom: 2px solid black;
+    color: white;
+    border-bottom: 2px solid white;
 }
