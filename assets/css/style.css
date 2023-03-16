@@ -47,7 +47,3 @@ h1, h2 {
     color: white;
     border-bottom: 2px solid white;
 }
-
-.active {
-    border-bottom: 2px solid beige;
-}
