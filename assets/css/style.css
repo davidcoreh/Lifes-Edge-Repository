@@ -143,3 +143,9 @@ h2, h3 {
     font-style: oblique;
     padding-right: 15px;
 }
+
+/* Contact Section - iframe map and contact info */
+
+#contact > h2 {
+    color: beige;
+}
