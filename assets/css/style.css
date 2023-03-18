@@ -130,22 +130,34 @@ h2, h3 {
     border-radius: 30%;
 }
 
-#left-about > p {
+#left-about > h3, p {
     font-weight: 900;
     font-size: larger;
     font-style: oblique;
     padding-left: 15px;
+    color: #3a3a3a;
 }
 
-#right-about > p {
+#right-about > h3, p {
     font-weight: 900;
     font-size: larger;
     font-style: oblique;
     padding-right: 15px;
+    color: #3a3a3a;
 }
 
 /* Contact Section - iframe map and contact info */
 
-#contact > h2 {
-    color: beige;
+#contact-left {
+    padding-top: 30px;
+    float: left;
+    width: 33%;
+    text-align: left;
+}
+
+#contact-right {
+    padding-top: 30px;
+    float: right;
+    width: 33%;
+    text-align: right;
 }
