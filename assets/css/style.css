@@ -15,11 +15,18 @@ body {
 
 /* Heading and logo */
 
-h1, h2, h3 {
+h1 {
     font-family: 'Bebas Neue', sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: beige;
+    color: beige
+}
+
+h2, h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #3a3a3a;
 }
 
 #main-heading {
@@ -55,7 +62,6 @@ h1, h2, h3 {
     height: 400px;
     width: 100%;
     overflow: hidden;
-    margin-bottom: 75px;
 }
 
 #main-image {
@@ -83,8 +89,10 @@ h1, h2, h3 {
 /* About Section */
 
 #about-section {
-    height: 700px;
+    height: 500px;
     width: 100%;
+    background-color: beige;
+    color:#3a3a3a
 }
 
 #left-about {
