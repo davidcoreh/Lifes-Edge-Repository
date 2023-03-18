@@ -47,3 +47,10 @@ h1, h2 {
     color: white;
     border-bottom: 2px solid white;
 }
+
+#main-image {
+    height: 400px;
+    width: 100%;
+    background-image: url('../images/main-image.jpg');
+    clear: both;
+}
