@@ -8,14 +8,14 @@
 
 body {
     font-family: 'Work Sans', sans-serif;
-    font-weight: 400;
+    font-weight: 600;
     color: beige;
     background-color: #3a3a3a;
 }
 
 /* Heading and logo */
 
-h1, h2 {
+h1, h2, h3 {
     font-family: 'Bebas Neue', sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -47,13 +47,15 @@ h1, h2 {
 #nav-menu li:hover {
     color: white;
     border-bottom: 2px solid white;
-    border-top: 2px solid white;
 }
+
+/* Main Home Image */
 
 #main-image-container {
     height: 400px;
     width: 100%;
     overflow: hidden;
+    margin-bottom: 75px;
 }
 
 #main-image {
@@ -97,4 +99,15 @@ h1, h2 {
     float: right;
     width: 33%;
     text-align: right;
+}
+
+#middle-about {
+    margin: 0 auto;
+    width: 33%;
+    text-align: center;
+}
+
+#about-image {
+    border: 10px solid beige;
+    border-radius: 30%;
 }
