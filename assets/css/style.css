@@ -22,6 +22,10 @@ h1 {
     color: beige
 }
 
+h3 {
+    text-align: center;
+}
+
 h2, h3 {
     font-family: 'Bebas Neue', sans-serif;
     text-transform: uppercase;
@@ -126,8 +130,16 @@ h2, h3 {
     border-radius: 30%;
 }
 
-.about-div > p {
+#left-about > p {
     font-weight: 900;
     font-size: larger;
     font-style: oblique;
+    padding-left: 15px;
+}
+
+#right-about > p {
+    font-weight: 900;
+    font-size: larger;
+    font-style: oblique;
+    padding-right: 15px;
 }
