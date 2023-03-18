@@ -93,7 +93,8 @@ h2, h3 {
     height: 500px;
     width: 100%;
     background-color: beige;
-    color:#3a3a3a
+    color:#3a3a3a;
+    border-radius: 10%;
 }
 
 #about-heading {
