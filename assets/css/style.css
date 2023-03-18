@@ -124,3 +124,9 @@ h2, h3 {
     border: 10px solid #3a3a3a;
     border-radius: 30%;
 }
+
+.about-div > p {
+    font-weight: 900;
+    font-size: larger;
+    font-style: oblique;
+}
