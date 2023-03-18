@@ -25,7 +25,7 @@ h1, h2 {
 #main-heading {
     float: left;
     font-size: 300%;
-    padding: 20px;
+    padding: 15px;
 }
 
 /* navigation menu */
@@ -48,9 +48,30 @@ h1, h2 {
     border-bottom: 2px solid white;
 }
 
+#main-image-container {
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+}
+
 #main-image {
     height: 400px;
     width: 100%;
     background-image: url('../images/main-image.jpg');
-    clear: both;
+
+
+    animation-name: image-motion;
+    animation-duration: 6s;
+    animation-fill-mode: forwards;
+}
+
+/* Main-image Animation */
+
+@keyframes image-motion {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
 }
