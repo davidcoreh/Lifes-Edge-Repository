@@ -27,6 +27,7 @@ h2, h3 {
     text-transform: uppercase;
     letter-spacing: 3px;
     color: #3a3a3a;
+    text-decoration: underline;
 }
 
 #main-heading {
