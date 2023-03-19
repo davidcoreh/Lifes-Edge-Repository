@@ -169,6 +169,7 @@ h2, h3 {
     margin-left: 100px;
     text-align: center;
     background-color: rgba(128, 128, 128, .6);
+    border-radius: 25px;
 }
 
 #contact-right {
@@ -178,6 +179,7 @@ h2, h3 {
     margin-right: 100px;
     text-align: center;
     background-color: rgba(128, 128, 128, .6);
+    border-radius: 25px;
 }
 
 .contact-heading {
