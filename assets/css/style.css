@@ -61,7 +61,12 @@ h2, h3 {
     color: beige;
 }
 
-#nav-menu li:hover {
+#nav-menu a {
+    text-decoration: none;
+    color: beige;
+}
+
+#nav-menu li a:hover {
     color: white;
     border-bottom: 2px solid white;
 }
