@@ -223,3 +223,26 @@ footer {
     padding: 20px;
     text-align: center;
 }
+
+/* Packages Page */
+
+#adventures-section {
+    height: 600px;
+    background-color: beige;
+    color: #3a3a3a;
+}
+
+#adventures-heading {
+    text-align: center;
+}
+
+#mountain-div {
+    height: 375px;
+    float: left;
+    width: 30%;
+    margin-left: 100px;
+    text-align: center;
+    background-color: rgba(128, 128, 128, .6);
+    border-radius: 25px;
+    padding: 50px;
+}
