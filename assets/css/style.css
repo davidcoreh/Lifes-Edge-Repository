@@ -238,6 +238,7 @@ footer {
 #adventures-heading {
     text-align: center;
     padding-bottom: 100px;
+    padding-top: 20px;
     clear: both;
 }
 
@@ -254,11 +255,11 @@ footer {
 }
 
 #air-section {
-    height: 800px;
+    height: 700px;
     background-color: #3a3a3a;
     background: url('../images/paraglider.jpg') no-repeat center center;
     color: #3a3a3a;
-    margin-top: 35px;
+    margin-top: 10px;
 }
 
 #air-div {
@@ -266,7 +267,7 @@ footer {
     float: left;
     width: 30%;
     margin-left: 200px;
-    margin-top: 200px;
+    margin-top: 150px;
     text-align: center;
     background-color: rgba(128, 128, 128, .6);
     border-radius: 25px;
