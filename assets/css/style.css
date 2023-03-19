@@ -165,6 +165,7 @@ h2, h3 {
     width: 100%;
     color: beige;
     background-color: #3a3a3a;
+    margin-bottom: 50px;
 }
 
 #contact-left {
@@ -228,9 +229,10 @@ footer {
 
 #adventures-section {
     height: 700px;
-    background-color: beige;
+    background-color: #3a3a3a;
     background: url('../images/mountain-back.jpg') no-repeat center center;
     color: #3a3a3a;
+    margin-top: 35px;
 }
 
 #adventures-heading {
