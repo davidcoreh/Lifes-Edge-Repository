@@ -227,22 +227,26 @@ footer {
 /* Packages Page */
 
 #adventures-section {
-    height: 600px;
+    height: 700px;
     background-color: beige;
+    background: url('../images/mountain-back.jpg') no-repeat center center;
     color: #3a3a3a;
 }
 
 #adventures-heading {
     text-align: center;
+    padding-bottom: 100px;
+    clear: both;
 }
 
 #mountain-div {
     height: 375px;
-    float: left;
+    float: right;
     width: 30%;
-    margin-left: 100px;
+    margin-right: 200px;
     text-align: center;
     background-color: rgba(128, 128, 128, .6);
     border-radius: 25px;
     padding: 50px;
+    font-size: x-large;
 }
