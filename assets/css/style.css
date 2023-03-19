@@ -103,6 +103,7 @@ h2, h3 {
 
 #about-heading {
     text-align: center;
+    margin-top:  50px;
 }
 
 #left-about {
@@ -120,9 +121,10 @@ h2, h3 {
 }
 
 #middle-about {
-    margin: 0 auto;
+    margin: 60px auto;
     width: 33%;
     text-align: center;
+    padding: 25px;
 }
 
 #about-image {
@@ -134,7 +136,7 @@ h2, h3 {
     font-weight: 900;
     font-size: larger;
     font-style: oblique;
-    padding-left: 15px;
+    padding-left: 40px;
     color: #3a3a3a;
 }
 
@@ -142,7 +144,7 @@ h2, h3 {
     font-weight: 900;
     font-size: larger;
     font-style: oblique;
-    padding-right: 15px;
+    padding-right: 40px;
     color: #3a3a3a;
 }
 
