@@ -188,3 +188,26 @@ h2, h3 {
     margin: 50px;
     background-color: rgba(58, 58, 58, .6);
 }
+
+/* Footer - Social Links, badges and Copyright */
+
+footer {
+    height: 250px;
+    background-color: beige;
+}
+
+.social-links {
+    text-align: center;
+}
+
+.social-links > li {
+    display: inline;
+}
+
+.social-links i {
+    font-size: 250%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+    list-style-type: none;
+}
