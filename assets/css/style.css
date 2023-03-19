@@ -27,6 +27,10 @@ h3 {
     font-size: x-large;
 }
 
+h2 {
+    font-size: xx-large;
+}
+
 h2, h3 {
     font-family: 'Bebas Neue', sans-serif;
     text-transform: uppercase;
@@ -108,21 +112,21 @@ h2, h3 {
 }
 
 #left-about {
-    padding-top: 30px;
+    padding-top: 10px;
     float: left;
     width: 33%;
     text-align: left;
 }
 
 #right-about {
-    padding-top: 30px;
+    padding-top: 10px;
     float: right;
     width: 33%;
     text-align: right;
 }
 
 #middle-about {
-    margin: 60px auto;
+    margin: 50px auto;
     width: 33%;
     text-align: center;
     padding: 25px;
@@ -152,28 +156,33 @@ h2, h3 {
 /* Contact Section - iframe map and contact info */
 
 #contact {
-    height: 500px;
+    height: 475px;
     width: 100%;
     color: beige;
-    background-color:#3a3a3a;
+    background-color: #3a3a3a;
 }
 
 #contact-left {
-    padding-top: 30px;
+    height: 375px;
     float: left;
-    width: 50%;
+    width: 40%;
+    margin-left: 100px;
     text-align: center;
+    background-color: rgba(128, 128, 128, .6);
 }
 
 #contact-right {
-    padding-top: 30px;
+    height: 375px;
     float: right;
-    width: 50%;
+    width: 40%;
+    margin-right: 100px;
     text-align: center;
+    background-color: rgba(128, 128, 128, .6);
 }
 
 .contact-heading {
     color: beige;
     text-align: center;
     margin: 50px;
+    background-color: rgba(58, 58, 58, .6);
 }
