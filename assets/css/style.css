@@ -255,6 +255,10 @@ footer {
     clear: both;
 }
 
+.adventure-list > li {
+    padding: 10px;
+}
+
 #mountain-div {
     height: 250px;
     float: right;
