@@ -238,31 +238,42 @@ footer {
 #adventures-heading {
     text-align: center;
     padding-top: 20px;
+    float: right;
+    clear: both;
+    margin-right: 500px;
+}
+
+#adventure-div {
+    height: 750px;
+    float: right;
+    width: 45%;
+    text-align: center;
+    border-radius: 25px;
+    font-size: large;
+    padding: 20px;
+    margin-right: 250px;
     clear: both;
 }
 
 #mountain-div {
     height: 250px;
     float: right;
-    width: 20%;
-    margin-right: 50px;
+    width: 30%;
     text-align: center;
     background-color: rgba(128, 128, 128, .6);
     border-radius: 25px;
-    padding: 50px;
+    padding: 60px;
     font-size: large;
 }
 
 #air-div {
     height: 250px;
     float: left;
-    width: 20%;
-    margin-left: 200px;
-    margin-top: 150px;
+    width: 30%;
     text-align: center;
     background-color: rgba(128, 128, 128, .6);
     border-radius: 25px;
-    padding: 50px;
+    padding: 60px;
     font-size: large;
 }
 
@@ -273,11 +284,23 @@ ul {
 #ocean-div {
     height: 250px;
     float: right;
-    width: 20%;
-    margin-right: 200px;
+    width: 30%;
     text-align: center;
     background-color: rgba(128, 128, 128, .6);
     border-radius: 25px;
-    padding: 50px;
+    padding: 60px;
+    margin-top: 20px;
+    font-size: large;
+}
+
+#hiking-div {
+    height: 250px;
+    float: left;
+    width: 30%;
+    text-align: center;
+    background-color: rgba(128, 128, 128, .6);
+    border-radius: 25px;
+    padding: 60px;
+    margin-top: 20px;
     font-size: large;
 }
