@@ -318,11 +318,46 @@ ul {
     margin-top: 28px;
 }
 
+#booking-heading {
+    color: beige;
+    float: right;
+    margin-right: 325px;
+    margin-top: 30px;
+}
+
 #booking-form {
     height: 700px;
     width: 30%;
     float: right;
     margin-right: 175px;
-    margin-top: 50px;
+    margin-top: 30px;
     background-color: rgba(245, 245, 220, 0.6);
+    clear: both;
+}
+
+#personal-div {
+    width: 60%;
+    height: 300px;
+    text-align: center;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+
+input {
+    display: block;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+
+#interest-div {
+    width: 60%;
+    height: 300px;
+    text-align: right;
+    margin-left: 120px;
+
+    align-content: center;
+}
+
+#interest-div > input {
+    display: grid;
 }

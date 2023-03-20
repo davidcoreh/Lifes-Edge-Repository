@@ -24,7 +24,7 @@
                 </li>
                 <li>
                     <a href="booking.html" aria-label="Go to Booking page">Book</a>
-                <li>   
+                <li>
                     <a href="adventures.html" aria-label="Go to Adventures page">Adventures</a>
                 </li>
                 <li>
@@ -36,9 +36,28 @@
     <section id="booking-section">
         <h2 id="booking-heading">Need More Info?</h2>
         <div id="booking-form">
-            <h3>Personal Details:</h3>
-            <label for="first-name">First Name:</label>
-            <input type="text" name="first-name">
+            <div id="personal-div">
+                <h3>Personal Details:</h3>
+                <label for="first-name">First Name:</label>
+                <input type="text" name="first-name">
+                <label for="last-name">Last Name:</label>
+                <input type="text" name="last-name">
+                <label for="email">Email:</label>
+                <input type="email" name="email">
+                <label for="birth-date">Birth Date:</label>
+                <input type="date" name="birth-date">
+            </div>
+            <div id="interest-div">
+                <h3>What's Your Interest?</h3>
+                <label for="mountain-button">Mountain Climbing:</label>
+                <input type="radio" name="mountain-button">
+                <label for="air-button">Air Sports:</label>
+                <input type="radio" name="air-button">
+                <label for="ocean-button">Ocean Sports:</label>
+                <input type="radio" name="ocean-button">
+                <label for="hiking-button">Hiking:</label>
+                <input type="radio" name="hiking-button">
+            </div>
         </div>
     </section>
     <footer>Footer</footer>
