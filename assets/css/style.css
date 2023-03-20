@@ -352,7 +352,7 @@ input {
 #interest-div {
     width: 60%;
     height: 300px;
-    text-align: right;
+    text-align: left;
     margin-left: 120px;
 
     align-content: center;
