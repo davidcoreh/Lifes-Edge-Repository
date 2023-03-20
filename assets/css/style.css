@@ -308,3 +308,12 @@ ul {
     margin-top: 20px;
     font-size: large;
 }
+
+/* Booking Section */
+
+#booking-section {
+    height: 900px;
+    width: 100%;
+    background: url('../images/kayak.jpg') no-repeat center center;
+    margin-top: 28px;
+}
