@@ -228,7 +228,7 @@ footer {
 /* Adventures Page */
 
 #mountain-section {
-    height: 700px;
+    height: 900px;
     background-color: #3a3a3a;
     background: url('../images/mountain-back.jpg') no-repeat center center;
     color: #3a3a3a;
@@ -237,44 +237,47 @@ footer {
 
 #adventures-heading {
     text-align: center;
-    padding-bottom: 100px;
     padding-top: 20px;
     clear: both;
 }
 
 #mountain-div {
-    height: 375px;
+    height: 250px;
     float: right;
-    width: 30%;
-    margin-right: 200px;
+    width: 20%;
+    margin-right: 50px;
     text-align: center;
     background-color: rgba(128, 128, 128, .6);
     border-radius: 25px;
     padding: 50px;
-    font-size: x-large;
-}
-
-#air-section {
-    height: 700px;
-    background-color: #3a3a3a;
-    background: url('../images/paraglider.jpg') no-repeat center center;
-    color: #3a3a3a;
-    margin-top: 10px;
+    font-size: large;
 }
 
 #air-div {
-    height: 375px;
+    height: 250px;
     float: left;
-    width: 30%;
+    width: 20%;
     margin-left: 200px;
     margin-top: 150px;
     text-align: center;
     background-color: rgba(128, 128, 128, .6);
     border-radius: 25px;
     padding: 50px;
-    font-size: x-large;
+    font-size: large;
 }
 
 ul {
     list-style-type: none;
+}
+
+#ocean-div {
+    height: 250px;
+    float: right;
+    width: 20%;
+    margin-right: 200px;
+    text-align: center;
+    background-color: rgba(128, 128, 128, .6);
+    border-radius: 25px;
+    padding: 50px;
+    font-size: large;
 }
