@@ -317,3 +317,12 @@ ul {
     background: url('../images/kayak.jpg') no-repeat center center;
     margin-top: 28px;
 }
+
+#booking-form {
+    height: 700px;
+    width: 30%;
+    float: right;
+    margin-right: 175px;
+    margin-top: 50px;
+    background-color: rgba(245, 245, 220, 0.6);
+}
