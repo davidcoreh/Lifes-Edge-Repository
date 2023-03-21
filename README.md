@@ -76,7 +76,7 @@ Ten test users where asked to give an opinion on how the site performs and looks
 <h1>Potential Future updates</h1>
 <h2>Gallery Section:</h2>
 <p>
-A gallery section would be an exellent update to make to the site in future to add more positive user experience to the site, as past client images will attract new clients to the company and its services, while also making the site even more appealing to the user visually.
+Based on user feedback, a gallery section would be an exellent update to make to the site in future to add more positive user experience to the site, as past client images will attract new clients to the company and its services, while also making the site even more appealing to the user visually.
 </p>
 <h2>Review section:</h2>
 <p>
