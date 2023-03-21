@@ -67,3 +67,18 @@ This style.css file acts as the style sheet across all pages of the site and kee
 
 <h2>W3C CSS (Jigsaw) Validation:</h2>
 <p>The style.css file passed W3C CSS (Jigsaw) Validation with no warnings or errors in code.</p>
+
+<h2>User Survey:</h2>
+<p>
+Ten test users where asked to give an opinion on how the site performs and looks in preview. All 10 reported that they would recommend the site to others and that the style and structure promoted a positive experience on the website. With only 2 reporting that a gallery page would be a nice edition to the site to show past client experiences
+</p>
+
+<h1>Potential Future updates</h1>
+<h2>Gallery Section:</h2>
+<p>
+A gallery section would be an exellent update to make to the site in future to add more positive user experience to the site, as past client images will attract new clients to the company and its services, while also making the site even more appealing to the user visually.
+</p>
+<h2>Review section:</h2>
+<p>
+A review section would make an exellent future update to the site, as past client reviews are likly to convince new and existing clients of not only the benefits of using Life's Edge services but also peace of mind in booking services knowing many past clients have a positive experience to share with others.
+</p>
