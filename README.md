@@ -46,7 +46,7 @@ The adventures.html file consists of a background image of a climber with lists 
 <p>The page headers remain consistent across the website to provide a more positive user experience.</p>
 <h2>Booking Form:</h2>
 <p>
-The booking.html file consists of a background image to cover the view port and various inputs for submiting information. The purpose of this file is to provide a form for the user to submit to recieve a personalised brochure based on there area of interest, so the user can cater a package to suit their needs.
+The booking.html file consists of a background image to cover the view port and various inputs for submiting information. The purpose of this file is to provide a form for the user to submit to recieve a personalised brochure based on there area of interest, so the user can view price breakdowns and cater a package to suit their needs.
 </p>
 <h2>Page Footer</h2>
 <p>The footers remain consistent across the website to provide a more positive user experience.</p>
