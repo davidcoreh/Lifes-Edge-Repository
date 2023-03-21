@@ -37,18 +37,33 @@ The purpose of the contact section is to provide all relevant contact informatio
 <p>
 The adventures.html file consists of a background image of a climber with lists containing all the activities Life's Edge offeres its clients, designed to be clear and visually appealing to the user.
 </p>
-<h2>The footers remain consistent across the website to provide a more positive user experience.</h2>
+<h2>Page Footer</h2>
+<p>The footers remain consistent across the website to provide a more positive user experience.</p>
 
 <!--booking.html-->
 <h1>booking.html</h1>
+<h2>Page header</h2>
+<p>The page headers remain consistent across the website to provide a more positive user experience.</p>
 <h2>Booking Form:</h2>
 <p>
 The booking.html file consists of a background image to cover the view port and various inputs for submiting information. The purpose of this file is to provide a form for the user to submit to recieve a personalised brochure based on there area of interest, so the user can cater a package to suit their needs.
 </p>
+<h2>Page Footer</h2>
+<p>The footers remain consistent across the website to provide a more positive user experience.</p>
 
 <!--style.css-->
 <h1>style.css</h1>
 <h2>Stylesheet:</h2>
 <p>
-This style.css file acts as the style sheet across all pages of the site and uses various UX design styles to keep the styles, animations and color schemes consistent across all pages and promote positive user experience
+This style.css file acts as the style sheet across all pages of the site and keeps in mind UX design to keep the styles, animations and color schemes consistent across all pages and promote a positive user experience.
 </p>
+
+<br>
+
+<!--Testing-->
+<h1>Testing</h1>
+<h2>W3C html Validation:</h2>
+<p>All html files passed W3C validation with no warnings or errors in code.</p>
+
+<h2>W3C CSS (Jigsaw) Validation:</h2>
+<p>The style.css file passed W3C CSS (Jigsaw) Validation with no warnings or errors in code.</p>
