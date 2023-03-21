@@ -39,12 +39,17 @@ The purpose of the contact section is to provide all relevant contact informatio
 <h1>adventures.html</h1>
 <h2>Page header</h2>
 <p>The page headers remain consistent across the website to provide a more positive user experience.</p>
+<img src="assets/images/hear.jpg" alt="Screenshot of page header">
+
 <h2>Adventures Page Content:</h2>
 <p>
-The adventures.html file consists of a background image of a climber with lists containing all the activities Life's Edge offeres its clients, designed to be clear and visually appealing to the user.
+The adventures.html file consists of a free to use background image of a climber from pixabay.com, with lists containing all the activities Life's Edge offers its clients, designed to be clear and visually appealing to the user.
 </p>
+<img src="assets/images/adventures-page.jpg" alt="Screenshot of adventures page content">
+
 <h2>Page Footer</h2>
 <p>The footers remain consistent across the website to provide a more positive user experience.</p>
+<img src="assets/images/footer.jpg" alt="Screenshot of page footer">
 
 <!--booking.html-->
 <h1>booking.html</h1>
