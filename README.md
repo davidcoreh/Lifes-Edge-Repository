@@ -82,3 +82,7 @@ A gallery section would be an exellent update to make to the site in future to a
 <p>
 A review section would make an exellent future update to the site, as past client reviews are likly to convince new and existing clients of not only the benefits of using Life's Edge services but also peace of mind in booking services knowing many past clients have a positive experience to share with others.
 </p>
+<h2>Video Testimonials:</h2>
+<p>
+In addition to a review section, a section for video testimonials from clients as they carry out the activities of their choice will be a positive future update to the website, as this will promote attaining new clients and gives new and existing clients a real look at what Life's Edge are offering to their clients.
+</p>
