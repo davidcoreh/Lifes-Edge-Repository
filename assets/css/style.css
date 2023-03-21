@@ -344,6 +344,14 @@ ul {
     margin-top: 50px;
 }
 
+#personal-heading {
+    margin-bottom: 30px;
+}
+
+#interest-heading {
+    margin-bottom: 50px;
+}
+
 input {
     display: block;
     margin-left: 100px;
