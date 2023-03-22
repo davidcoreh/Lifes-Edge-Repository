@@ -35,38 +35,42 @@
     </header>
     <section id="booking-section">
         <h2 id="booking-heading">Get a Personalised Brochure:</h2>
-        <div id="booking-form">
-            <div id="personal-div">
-                <h3 id="personal-heading">Personal Details:</h3>
-                <label for="first-name">First Name:</label>
-                <input type="text" id="first-name" name="fname" required>
+        <form method="POST" action="https://formdump.codeinstitute.net/">
+            <div id="booking-form">
+                <div id="personal-div">
+                    <h3 id="personal-heading">Personal Details:</h3>
+                    <label for="first-name">First Name:</label>
+                    <input type="text" id="first-name" name="fname" required>
 
-                <label for="last-name">Last Name:</label>
-                <input type="text" id="last-name" name="lname" required>
+                    <label for="last-name">Last Name:</label>
+                    <input type="text" id="last-name" name="lname" required>
 
-                <label for="email">Email:</label>
-                <input type="email" id="email" name="email" required>
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
 
-                <label for="birth-date">Birth Date:</label>
-                <input type="date" id="birth-date" name="bdate" required>
+                    <label for="birth-date">Birth Date:</label>
+                    <input type="date" id="birth-date" name="bdate" required>
+                </div>
+                <div id="interest-div">
+                    <h3 id="interest-heading">What's Your Interest?</h3>
+                    <label for="mountain-button">Mountain Climbing:</label>
+                    <input type="radio" id="mountain-button" name="mountain" class="form-button"
+                        value="mountain-clibming" required>
+
+                    <label for="air-button">Air Sports:</label>
+                    <input type="radio" id="air-button" name="air" class="form-button" value="air-sports" required>
+
+                    <label for="ocean-button">Ocean Sports:</label>
+                    <input type="radio" id="ocean-button" name="ocean" class="form-button" value="ocean-sports"
+                        required>
+
+                    <label for="hiking-button">Hiking:</label>
+                    <input type="radio" name="hiking" id="hiking-button" class="form-button" value="hiking" required>
+
+                    <input type="submit" name="submit" id="submit-button" value="Send My Brochure!">
+                </div>
             </div>
-            <div id="interest-div">
-                <h3 id="interest-heading">What's Your Interest?</h3>
-                <label for="mountain-button">Mountain Climbing:</label>
-                <input type="radio" id="mountain-button" name="mountain" class="form-button" value="mountain-clibming" required>
-
-                <label for="air-button">Air Sports:</label>
-                <input type="radio" id="air-button" name="air" class="form-button" value="air-sports">
-
-                <label for="ocean-button">Ocean Sports:</label>
-                <input type="radio" id="ocean-button" name="ocean" class="form-button" value="ocean-sports">
-
-                <label for="hiking-button">Hiking:</label>
-                <input type="radio" name="hiking" id="hiking-button" class="form-button" value="hiking">
-
-                <input type="submit" name="submit" id="submit-button">
-            </div>
-        </div>
+        </form>
     </section>
     <footer>
         <ul class="social-links">
@@ -76,12 +80,14 @@
                 </a>
             </li>
             <li>
-                <a href="https://www.instagram.com/" aria-label="Visit our Instagram page" target="_blank" rel="noopener">
+                <a href="https://www.instagram.com/" aria-label="Visit our Instagram page" target="_blank"
+                    rel="noopener">
                     <i class="fa-brands fa-instagram"></i>
                 </a>
             </li>
             <li>
-                <a href="https://www.youtube.com/" aria-label="Visit our YouTube channel" target="_blank" rel="noopener">
+                <a href="https://www.youtube.com/" aria-label="Visit our YouTube channel" target="_blank"
+                    rel="noopener">
                     <i class="fa-brands fa-youtube"></i>
                 </a>
             </li>
