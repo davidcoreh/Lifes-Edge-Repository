@@ -39,7 +39,7 @@ The purpose of the contact section is to provide all relevant contact informatio
 <h1>adventures.html</h1>
 <h2>Page header</h2>
 <p>The page headers remain consistent across the website to provide a more positive user experience.</p>
-<img src="assets/images/hear.jpg" alt="Screenshot of page header">
+<img src="assets/images/header.jpg" alt="Screenshot of page header">
 
 <h2>Adventures Page Content:</h2>
 <p>
@@ -55,12 +55,17 @@ The adventures.html file consists of a free to use background image of a climber
 <h1>booking.html</h1>
 <h2>Page header</h2>
 <p>The page headers remain consistent across the website to provide a more positive user experience.</p>
+<img src="assets/images/header.jpg" alt="Screenshot of page header">
+
 <h2>Booking Form:</h2>
 <p>
 The booking.html file consists of a background image to cover the view port and various inputs for submiting information. The purpose of this file is to provide a form for the user to submit to recieve a personalised brochure based on there area of interest, so the user can view price breakdowns and cater a package to suit their needs.
 </p>
+<img src="assets/images/booking-form.PNG" alt="Screenshot of booking form">
+
 <h2>Page Footer</h2>
 <p>The footers remain consistent across the website to provide a more positive user experience.</p>
+<img src="assets/images/footer.jpg" alt="Screenshot of page footer">
 
 <!--style.css-->
 <h1>style.css</h1>
@@ -73,11 +78,12 @@ This style.css file acts as the style sheet across all pages of the site and kee
 
 <!--Testing-->
 <h1>Testing</h1>
-<h2>W3C html Validation:</h2>
-<p>All html files passed W3C validation with no warnings or errors in code.</p>
+<h2>W3C Validation:</h2>
+<p>HTML - All files passed W3C validation with no warnings or errors in code</p>
+<p>CSS - All files passed W3C validation with no warnings or errors in code</p>
 
-<h2>W3C CSS (Jigsaw) Validation:</h2>
-<p>The style.css file passed W3C CSS (Jigsaw) Validation with no warnings or errors in code.</p>
+<h1>LightHouse in Chrome DevTool's</h1>
+<p>After analysing code in lighthouse it is clear the website performs consistently and is very accessible to users</p>
 
 <h2>User Survey:</h2>
 <p>
@@ -97,3 +103,7 @@ A review section would make an exellent future update to the site, as past clien
 <p>
 In addition to a review section, a section for video testimonials from clients as they carry out the activities of their choice will be a positive future update to the website, as this will promote attaining new clients and gives new and existing clients a real look at what Life's Edge are offering to their clients.
 </p>
+
+<h1>Deployment</h1>
+
+<h1>Credits</h1>
