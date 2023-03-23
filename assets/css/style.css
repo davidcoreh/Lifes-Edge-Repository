@@ -406,8 +406,8 @@ input {
 
 /* Media Queries */
 
-/* For large to medum screen sizes of 1200px or less */
-@media screen and (max-width: 1250px) {
+/* For large to medum screen sizes of 1300px or less */
+@media screen and (max-width: 1300px) {
 
     #about-section {
         width: 65%;
@@ -441,6 +441,65 @@ input {
         clear: both;
         float: left;
     }
+
+    /* Adventure page Media queries */
+    #adventure-div {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    #mountain-section {
+        width: 100%;
+        height: 1250px;
+        clear: both;
+        padding: 0;
+    }
+    #adventures-heading {
+        float: none;
+        margin: 0;
+    }
+
+    #mountain-div, #air-div {
+        width: 25%;
+        height: 250px;
+        float: left;
+        font-size: small;
+        margin: 0;
+    }
+
+    #ocean-div, #hiking-div {
+        width: 25%;
+        height: 250px;
+        float: right;
+        font-size: small;
+        margin: 0;
+    }
 }
 
 /* For medium screen sizes of 950px wide or less */
+@media screen and (max-width: 950px) {
+    nav {
+        width: 100%;
+        float: left;
+        margin-left: 30px;
+        margin-right: 30px;
+        line-height: 25px;
+        font-size: small;
+        text-align: center;
+    }
+
+    #nav-menu {
+        font-size: medium;
+    }
+
+    #contact {
+        height: 600px;
+    }
+    #contact-right, #contact-left {
+        width: 30%;
+        height: 500px;
+    }
+}
+
+/* For small screens of 700px or less */
