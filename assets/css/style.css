@@ -326,7 +326,7 @@ ul {
 }
 
 #booking-form {
-    height: 750px;
+    height: 775px;
     width: 30%;
     float: right;
     margin-right: 175px;
@@ -342,11 +342,11 @@ ul {
     height: 300px;
     text-align: center;
     margin-left: 120px;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 #personal-heading {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 #interest-heading {
@@ -391,6 +391,15 @@ input {
     align-content: center;
 }
 
+.button-div {
+    border: 1px solid #3a3a3a;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    font-size: large;
+    background-color: rgba(245, 245, 220, 0.6);
+    text-align: center;
+}
+
 #interest-div > input {
-    display: grid;
+    display: grid; 
 }
