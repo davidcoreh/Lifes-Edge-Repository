@@ -407,7 +407,7 @@ input {
 /* Media Queries */
 
 /* For large to medum screen sizes of 1200px or less */
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1350px) {
 
     #about-section {
         width: 65%;
@@ -444,7 +444,7 @@ input {
     /* Adventure page Media queries */
     #adventure-div {
         width: 100%;
-        margin: 0;
+        margin: 0 auto;
         padding: 0;
     }
 
@@ -471,7 +471,7 @@ input {
     #ocean-div, #hiking-div {
         width: 25%;
         height: 250px;
-        float: right;
+        float: left;
         font-size: small;
         margin: 0;
     }
@@ -542,4 +542,56 @@ input {
     }
 }
 
-/* For phone screens sized 420px or less */
+/* For phone screens sized 525px to 480px */
+
+@media screen and (max-width: 525px) {
+
+    #about-section {
+        height: 1500px;
+    }
+
+    #contacth {
+
+        margin-top: 100px;
+        margin-bottom: 50px;
+    }
+
+    #contact {
+        height: 650px;
+    }
+
+    #contact-left, #contact-right {
+        width: 40%;
+        margin: 0;
+    }
+
+    #nav-menu > li {
+        font-size: x-small;
+    }
+
+    #booking-heading {
+        margin-right: 200px;
+        font-size: large;
+        text-align: center;
+    }
+
+    #booking-form {
+        width: 70%;
+        height: 800px;
+    }
+
+    #interest-heading {
+        margin-top: 60px;
+    }
+
+}
+
+@media screen and (max-width: 480px) {
+    #booking-form {
+        width: 70%;
+        height: 800px;
+        padding-right: 100px;
+        margin: 0 25px 0 25px;
+        clear: both;
+    }
+}
