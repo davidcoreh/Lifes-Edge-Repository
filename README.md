@@ -97,6 +97,13 @@
 
 - In addition to a review section, a section for video testimonials from clients as they carry out the activities of their choice will be a positive future update to the website, as this will promote attaining new clients and gives new and existing clients a real look at what Life's Edge are offering.
 
+# Debugging
+## Debugging with DevTools 
+- Chrome DevTools were used in the debugging process to find and fix unusual behavior, and while implementing reponsive design for different device widths.
+
+## Debugging with W3C Validation
+- Attempts at validating html and css code uncovered any substandard code to be fixed to pass validation.
+
 # Credits
 - Parts of the code for home-page image zoom animation were taken from Code Institutes - Love Running.
 - All images used across the site are free to use stock images from Pixabay.com.
