@@ -525,6 +525,10 @@ input {
 
 /* For small screens of 780px or less */
 @media screen and (max-width: 780px) {
+
+    #booking-heading {
+        font-size: larger;
+    }
     
     #booking-section {
         padding: 0;
@@ -571,7 +575,7 @@ input {
 
     #booking-heading {
         margin-right: 200px;
-        font-size: large;
+        font-size: medium;
         text-align: center;
     }
 
@@ -584,9 +588,16 @@ input {
         margin-top: 60px;
     }
 
+    #submit-button {
+        width: 150px;
+    }
+
 }
 
+
+/* for phone screens of 480px minimum */
 @media screen and (max-width: 480px) {
+
     #booking-form {
         width: 70%;
         height: 800px;
