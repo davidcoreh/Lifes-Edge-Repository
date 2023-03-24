@@ -12,7 +12,7 @@
 ## Page Header:
 - The header of the webpage consists of a Main Life's Edge Logo and Navigation Bar. The logo acts as a homepage link and uses the Bebas Neue font and an Icon from Font Awesome.
  - The Navigation Bar consists of links to the HOME, ADVENTURES, BOOKING and CONTACT sections of the website.
-<img src="assets/images/header.jpg" alt="Screenshot of website header>
+<img src="assets/images/header.jpg" alt="Screenshot of website header">
 
 ## Landing-Page Image:</h2>
 - The landing page image is a free to use winter mountain panarama stock photo from Pixabay.com. The landing image is designed to ilicit a positive response from users by using an animation that creates an inviting zoom effect on loading the page.
@@ -33,7 +33,7 @@
 <!--adventures.html-->
 # adventures.html
 ## Page header:
-- The page headers remain consistent across the website to provide a more positive user experience.
+- The page headers remain consistent across the website to provide a more positive and consistent user experience.
 <img src="assets/images/header.jpg" alt="Screenshot of page header">
 
 ## Adventures Page Content:
@@ -41,13 +41,13 @@
 <img src="assets/images/adventures-page.jpg" alt="Screenshot of adventures page content">
 
 ## Page Footer:
-- The footers remain consistent across the website to provide a more positive user experience.
+- The footers remain consistent across the website to provide a more positive and consistent user experience.
 <img src="assets/images/footer.jpg" alt="Screenshot of page footer">
 
 <!--booking.html-->
 # booking.html
 ## Page header:
-- The page headers remain consistent across the website to provide a more positive user experience.
+- The page headers remain consistent across the website to provide a more positive and consistent user experience.
 <img src="assets/images/header.jpg" alt="Screenshot of page header">
 
 ## Booking Form:
