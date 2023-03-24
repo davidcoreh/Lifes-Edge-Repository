@@ -74,12 +74,18 @@
 <img src="assets/images/w3c-css.PNG" alt="Screenshot of w3c css validation">
 
 ## LightHouse in Chrome DevTool's:
-- After analysing code in lighthouse it is clear the website performs consistently and is very accessible to users.
+- After analysing code in lighthouse the site performs consistently and is very accessible on both desktop and mobile devices.
+- index.html:
+<img src="assets/images/index-lighthouse.JPG">
 
-## User Survey:
-- Ten test users where asked to give an opinion on how the site performs and looks in preview. All 10 reported that they would recommend the site to others and that the style and structure promoted a positive experience on the website. With only 2 reporting that a gallery page would be a nice edition to the site to show past client experiences.
+- adventures.html:
+<img src="assets/images/adventure-lighthouse.JPG">
 
-# Potential Future updates
+- form.html:
+<img src="assets/images/brochure-lighthouse.JPG">
+
+
+# Potential Future Updates
 ## Gallery Section:
 - Based on user feedback, a gallery section would be an exellent update to make to the site in future to add more positive user experience to the site, as past client images will attract new clients to the company and its services, while also making the site even more appealing to the user visually.
 
@@ -89,8 +95,11 @@
 
 ## Video Testimonials:
 
-- In addition to a review section, a section for video testimonials from clients as they carry out the activities of their choice will be a positive future update to the website, as this will promote attaining new clients and gives new and existing clients a real look at what Life's Edge are offering to their clients.
-
-# Deployment
+- In addition to a review section, a section for video testimonials from clients as they carry out the activities of their choice will be a positive future update to the website, as this will promote attaining new clients and gives new and existing clients a real look at what Life's Edge are offering.
 
 # Credits
+- Parts of the code for home-page image zoom animation were taken from Code Institutes - Love Running.
+- All images used across the site are free to use stock images from Pixabay.com.
+- Parts of the code for Media Query stylings were sampled from Code Institues - Love Running.
+
+# Deployment
