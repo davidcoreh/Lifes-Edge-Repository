@@ -230,7 +230,7 @@ footer {
 #mountain-section {
     height: 875px;
     background-color: beige;
-    background: url('../images/mountain-back.jpg') no-repeat center center;
+    background: url('../images/mountain-back.webp') no-repeat center center;
     color: #3a3a3a;
     margin-top: 28px;
 }
