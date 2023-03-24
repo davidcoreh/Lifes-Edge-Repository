@@ -37,7 +37,7 @@
 <img src="assets/images/header.jpg" alt="Screenshot of page header">
 
 ## Adventures Page Content:
-- The adventures.html file consists of a free to use background image of a climber from pixabay.com, with lists containing all the activities Life's Edge offers its clients, designed to be clear and visually appealing to the user.
+- The adventures.html file consists of a background image of a climber covering the width of the viewport, with lists containing all the activities Life's Edge offers its clients, designed to be clear, informative and visually appealing to the user.
 <img src="assets/images/adventures-page.jpg" alt="Screenshot of adventures page content">
 
 ## Page Footer:
@@ -50,8 +50,8 @@
 - The page headers remain consistent across the website to provide a more positive and consistent user experience.
 <img src="assets/images/header.jpg" alt="Screenshot of page header">
 
-## Booking Form:
-- The booking.html file consists of a background image to cover the view port and various inputs for submiting information. The purpose of this file is to provide a form for the user to submit to recieve a personalised brochure based on there area of interest, so the user can view price breakdowns and cater a package to suit their needs.
+## Submition Form:
+- The form.html file consists of a background image to cover the view port and various inputs for submiting information. The purpose of this file is to provide a form for the user to submit to recieve a personalised brochure based on there area of interest, so the user can view price breakdowns and cater a package to suit their needs.
 <img src="assets/images/booking-form.PNG" alt="Screenshot of booking form">
 
 ## Page Footer:
@@ -62,7 +62,7 @@
 # style.css
 ## Stylesheet:
 
-- This style.css file acts as the style sheet across all pages of the site and keeps in mind UX design to keep the styles, animations and color schemes consistent across all pages and promote a positive user experience.
+- The style.css file acts as the stylesheet across all pages of the site and keeps in mind UX design to keep the styles, animations, color schemes and responsive design features consistent across all pages and promote a positive user experience.
 
 <!--Testing-->
 # Testing
