@@ -44,8 +44,8 @@
 - The footers remain consistent across the website to provide a more positive and consistent user experience.
 <img src="assets/images/footer.jpg" alt="Screenshot of page footer">
 
-<!--booking.html-->
-# booking.html
+<!--form.html-->
+# form.html
 ## Page header:
 - The page headers remain consistent across the website to provide a more positive and consistent user experience.
 <img src="assets/images/header.jpg" alt="Screenshot of page header">

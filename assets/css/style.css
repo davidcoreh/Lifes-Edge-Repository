@@ -548,7 +548,7 @@ input {
 
 /* For phone screens sized 525px to 480px */
 
-@media screen and (max-width: 525px) {
+@media screen and (max-width: 555px) {
 
     #about-section {
         height: 1500px;
@@ -570,7 +570,10 @@ input {
     }
 
     #nav-menu > li {
-        font-size: x-small;
+        font-size: xx-small;
+        margin: 5px;
+        margin-right: 25px;
+        text-align: center;
     }
 
     #booking-heading {
@@ -595,7 +598,7 @@ input {
 }
 
 
-/* for phone screens of 480px minimum */
+/* for phone screens of 480px */
 @media screen and (max-width: 480px) {
 
     #booking-form {
@@ -604,5 +607,165 @@ input {
         padding-right: 100px;
         margin: 0 25px 0 25px;
         clear: both;
+    }
+    #nav-menu > li {
+        font-size: xx-small;
+        float: right;
+        margin: 5px 0 5px 5px;
+        padding: 0;
+    }
+
+    #mountain-div, #air-div {
+        width: 8%;
+        height: 300px;
+        float: left;
+        font-size: x-small;
+        margin: 0;
+        text-align: left;
+    }
+
+    #mountain-div > h3, #air-div > h3 {
+        font-size: medium;
+    }
+
+    #ocean-div, #hiking-div {
+        width: 8%;
+        height: 300px;
+        float: left;
+        font-size: x-small;
+        margin: 0;
+        text-align: left;
+        clear: right;
+    }
+
+    #ocean-div > h3, #hiking-div > h3 {
+        font-size: medium;
+    }
+
+    #adventure-div {
+        width: 100%;
+        margin: 0 auto;
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    #nav-menu > li {
+        font-size: xx-small;
+        float: right;
+        margin: 5px 0 5px 5px;
+        padding: 0;
+    }
+
+    #booking-form {
+        width: 80%;
+        height: 850px;
+        padding-right: 100px;
+        margin: 0;
+        clear: both;
+}
+    #booking-section {
+        width: 100%;
+        margin: 0 auto;
+        padding: 0;
+    }
+    #booking-heading {
+        margin-right: 75px;
+        font-size: small;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    #nav-menu > li {
+        font-size: xx-small;
+        float: right;
+        margin: 3px 0 3px 3px;
+        padding: 0;
+    }
+
+    #mountain-div, #air-div {
+        width: 8%;
+        height: 300px;
+        float: left;
+        font-size: x-small;
+        margin: 0;
+        text-align: left;
+    }
+
+    #mountain-div > h3, #air-div > h3 {
+        font-size: medium;
+    }
+
+    #ocean-div, #hiking-div {
+        width: 8%;
+        height: 300px;
+        float: left;
+        font-size: x-small;
+        margin: 0;
+        text-align: left;
+        clear: right;
+    }
+
+    #ocean-div > h3, #hiking-div > h3 {
+        font-size: medium;
+    }
+
+    #adventure-div {
+        width: 100%;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    #mountain-section {
+        height: 950px;
+    }
+
+    #about-section {
+        width: 100%;
+        height: 1450px
+    }
+
+    #contact {
+        width: 100%;
+        height: 900px;
+    }
+
+    #contacth {
+        clear: both;
+        margin-top: 200px;
+    }
+
+    #contact-left {
+        width: 100%;
+        height: 400px;
+        clear: both;
+    }
+
+    #contact-right {
+        width: 100%;
+        height: 400px;
+        clear: both;
+    }
+
+    #booking-form {
+        width: 100%;
+    }
+
+    #booking-form, input {
+        padding-left: 90px;
+    }
+
+    #booking-form, label {
+        padding-left: 90px;
+    }
+
+    #interest-div {
+        width: 90%;
+    }
+
+    #submit-button {
+        width: 90%;
+        padding-right: 175px;
     }
 }
