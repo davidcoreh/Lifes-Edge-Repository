@@ -87,7 +87,7 @@
 
 # Potential Future Updates
 ## Gallery Section:
-- Based on user feedback, a gallery section would be an exellent update to make to the site in future to add more positive user experience to the site, as past client images will attract new clients to the company and its services, while also making the site even more appealing to the user visually.
+- A gallery section would be an exellent update to make to the site in future to add more positive user experience to the site, as past client images will attract new clients to the company and its services, while also making the site even more appealing to the user visually.
 
 ## Review section:</h2>
 
@@ -106,7 +106,6 @@
 
 # Credits
 - Parts of the code for home-page image zoom animation were taken from Code Institutes - Love Running.
-- All images used across the site are free to use stock images from Pixabay.com.
-- Parts of the code for Media Query stylings were sampled from Code Institues - Love Running.
+- All images used across the site are free to use stock images from Pixabay.com
 
 # Deployment
