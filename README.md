@@ -14,7 +14,7 @@
  - The Navigation Bar consists of links to the HOME, ADVENTURES, BOOKING and CONTACT sections of the website.
 <img src="assets/images/header.jpg" alt="Screenshot of website header">
 
-## Landing-Page Image:</h2>
+## Landing-Page Image:
 - The landing page image is a free to use winter mountain panarama stock photo from Pixabay.com. The landing image is designed to ilicit a positive response from users by using an animation that creates an inviting zoom effect on loading the page.
 <img src="assets/images/landing-image.jpg" alt="Screenshot of landing page image">
 
@@ -89,12 +89,10 @@
 ## Gallery Section:
 - A gallery section would be an exellent update to make to the site in future to add more positive user experience to the site, as past client images will attract new clients to the company and its services, while also making the site even more appealing to the user visually.
 
-## Review section:</h2>
-
+## Review section:
 - A review section would make an exellent future update to the site, as past client reviews are likly to convince new and existing clients of not only the benefits of using Life's Edge services but also peace of mind in booking services knowing many past clients have a positive experience to share with others.
 
 ## Video Testimonials:
-
 - In addition to a review section, a section for video testimonials from clients as they carry out the activities of their choice will be a positive future update to the website, as this will promote attaining new clients and gives new and existing clients a real look at what Life's Edge are offering.
 
 # Debugging
