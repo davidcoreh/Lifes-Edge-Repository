@@ -406,6 +406,7 @@ input {
 
 /* Media Queries */
 
+/* For Small to medium laptop screens 1375px wide or less */
 @media screen and (max-width: 1375px) {
 
     #nav-menu > li {
@@ -500,6 +501,8 @@ input {
     
 }
 
+
+/* For Medium size screens 1000px wide or less */
 @media screen and (max-width: 1000px) {
     
 }
