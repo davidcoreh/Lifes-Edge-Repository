@@ -84,7 +84,7 @@
 - form.html:
 <img src="assets/images/brochure-lighthouse.JPG">
 
-
+<!-- Future Updates-->
 # Potential Future Updates
 ## Gallery Section:
 - A gallery section would be an exellent update to make to the site in future to add more positive user experience to the site, as past client images will attract new clients to the company and its services, while also making the site even more appealing to the user visually.
@@ -95,6 +95,7 @@
 ## Video Testimonials:
 - In addition to a review section, a section for video testimonials from clients as they carry out the activities of their choice will be a positive future update to the website, as this will promote attaining new clients and gives new and existing clients a real look at what Life's Edge are offering.
 
+<!-- Debugging -->
 # Debugging
 ## Debugging with DevTools 
 - Chrome DevTools were used in the debugging process to find and fix unusual behavior, and while implementing reponsive design for different device widths.
@@ -102,8 +103,10 @@
 ## Debugging with W3C Validation
 - Attempts at validating html and css code uncovered any substandard code to be fixed to pass validation.
 
+<!-- Credits -->
 # Credits
 - Parts of the code for home-page image zoom animation were taken from Code Institutes - Love Running.
 - All images used across the site are free to use stock images from Pixabay.com
 
+<!-- Deployment -->
 # Deployment
