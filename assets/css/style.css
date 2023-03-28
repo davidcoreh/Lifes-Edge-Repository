@@ -90,21 +90,6 @@ h2, h3 {
     animation-fill-mode: forwards;
 }
 
-#mission-statment {
-    font-size: medium;
-    margin: 0 0 20px 35px;
-    clear: both;
-    float: left;
-}
-
-#mission-statment > h3 {
-    font-size: larger;
-}
-
-#mission-statment > h3 {
-    color: beige;
-}
-
 /* Main-image Animation */
 
 @keyframes image-motion {
