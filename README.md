@@ -107,7 +107,7 @@
 # Bugs and Fixes
 ## Break Points
 - After extensive testing in Chrome DevTools, unusual break points in the reponsivness of some elements were discovered.
--Using media queries these break points were fixed by targeting the width of the device screen at the time the elements break.
+- Using media queries these break points were fixed by targeting the width of the device screen at the time the elements break.
 
 <!-- Credits -->
 # Credits
