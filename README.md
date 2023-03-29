@@ -1,4 +1,4 @@
-<!--About the Company-->
+[comment]: # (About the Company)
 # Life's Edge
 ## About The Company:
 - Life's Edge is an adventure guide company offering a wide range of services that include, Mountain climbing, Ocean Sports, Air Sports and Hiking.
@@ -7,7 +7,7 @@
 - The purpose of this project is to build an accessible and visually appealing website for Life's Edge adventure company.
 - The main goal is to present relevant information on the services Life's Edge provides to new and existing clients, in an intuitive and easy way.
 
-<!--index.html-->
+[comment]: # (index.html)
 # index.html
 ## Page Header:
 - The header of the webpage consists of a Main Life's Edge Logo and Navigation Bar. The logo acts as a homepage link and uses the Bebas Neue font and an Icon from Font Awesome.
@@ -30,7 +30,7 @@
 - The page footer consists of links to social media sites that open in a new tab and are made more visually appealing using official logos of each social media site.
 ![Screenshot of page footer](/assets/images/footer.jpg)
 
-<!--adventures.html-->
+[comment]: # (adventures.html)
 # adventures.html
 ## Page header:
 - The page headers remain consistent across the website to provide a more positive and consistent user experience.
@@ -44,7 +44,7 @@
 - The footers remain consistent across the website to provide a more positive and consistent user experience.
 ![Screenshot of page footer](/assets/images/footer.jpg)
 
-<!--form.html-->
+[comment]: # (form.html)
 # form.html
 ## Page header:
 - The page headers remain consistent across the website to provide a more positive and consistent user experience.
@@ -58,7 +58,7 @@
 - The footers remain consistent across the website to provide a more positive user experience.
 ![Screenshot of page footer](/assets/images/footer.jpg)
 
-<!-- thanks.html -->
+[comment]: # (thanks.html)
 # thanks.html 
 
 ## Header
@@ -69,13 +69,13 @@
 - The thank you page is the action for the form.html submition form, and loads a thank you messege upon submition of the brochure form in the form.html file.
 ![Screenshot of thank you messege](assets/images/thanks.JPG)
 
-<!--style.css-->
+[comment]: # (style.css)
 # style.css
 ## Stylesheet:
 
 - The style.css file acts as the stylesheet across all pages of the site and keeps in mind UX design to keep the styles, animations, color schemes and responsive design features consistent across all pages and promote a positive user experience.
 
-<!--Testing-->
+[comment]: # (Testing)
 # Testing
 ## W3C Validation:
 - HTML - All files passed W3C validation with no warnings or errors in code.
@@ -98,7 +98,7 @@
 - thanks.html:
 ![Screenshot of thanks.html lighthouse test](/assets/images/thanks-lighthouse.JPG)
 
-<!-- Future Updates-->
+[comment]: # (Future Updates)
 # Potential Future Updates
 ## Gallery Section:
 - A gallery section would be an excellent update to make to the site in future to add more positive user experience to the site, as past client images will attract new clients to the company and its services, while also making the site even more appealing to the user visually.
@@ -109,7 +109,7 @@
 ## Video Testimonials:
 - In addition to a review section, a section for video testimonials from clients as they carry out the activities of their choice will be a positive future update to the website, as this will promote attaining new clients and gives new and existing clients a real look at what Life's Edge are offering.
 
-<!-- Debugging -->
+[comment]: # (Debugging)
 # Debugging
 ## Debugging with DevTools 
 - Chrome DevTools were used in the debugging process to find and fix unusual behaviour, and while implementing responsive design for different device widths.
@@ -117,7 +117,7 @@
 ## Debugging with W3C Validation
 - Attempts at validating html and css code uncovered any substandard code to be fixed to pass validation.
 
-<!-- Bugs and Fixes -->
+[comment]: # (Bugs and Fixes)
 # Bugs and Fixes
 ## Break Points
 - After extensive testing in Chrome DevTools, unusual break points in the reponsivness of some elements were discovered.
@@ -127,12 +127,12 @@
 - After initial testing it was clear the contact nav link only worked on index.html but not from other html files.
 - Checking href attributes showed a slash in the file path was causing an error. The file path was edited and contact nav links now work across all files.
 
-<!-- Credits -->
+[comment]: # (Credits)
 # Credits
 - Parts of the code for home-page image zoom animation were taken from Code Institutes - Love Running.
 - All images used across the site are free to use stock images from Pixabay.com
 
-<!-- Deployment -->
+[comment]: # (Deployment)
 # Deployment
 ## GitHub Pages:
 - Firstly a final debugging and grammar check was carried out.
