@@ -58,6 +58,17 @@
 - The footers remain consistent across the website to provide a more positive user experience.
 <img src="assets/images/footer.jpg" alt="Screenshot of page footer">
 
+<!-- thanks.html -->
+# thanks.html 
+
+## Header
+- The page headers remain consistent across the website to provide a more positive and consistent user experience.
+<img src="assets/images/header.jpg" alt="Screenshot of page header">
+
+## Thank You Messege
+- The thank you page is the action for the form.html submition form, and loads a thank you messege upon submition of the brochure form in the form.html file.
+<img src="assets/images/thanks.JPG">
+
 <!--style.css-->
 # style.css
 ## Stylesheet:
