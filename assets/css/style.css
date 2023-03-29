@@ -815,8 +815,8 @@ input {
     }
 }
 
-/* For screens of 525px or less */
-@media screen and (max-width: 525px) {
+/* For screens of 535px or less */
+@media screen and (max-width: 535px) {
 
     #about-section {
         width: 100%;
@@ -845,6 +845,10 @@ input {
 
     #contact-right {
         margin-right: 10%;
+    }
+
+    #submit-button {
+        width: 80%;
     }
 }
 
