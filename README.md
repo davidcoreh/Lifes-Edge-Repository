@@ -109,6 +109,10 @@
 - After extensive testing in Chrome DevTools, unusual break points in the reponsivness of some elements were discovered.
 - Using media queries these break points were fixed by targeting the width of the device screen at the time the elements break.
 
+## Broken Nav Link
+- After initial testing it was clear the contact nav link only worked on index.html but not from other html files.
+- Checking href attributes showed a slash in the file path was causing an error. The file path was edited and contact nav links now work across all files.
+
 <!-- Credits -->
 # Credits
 - Parts of the code for home-page image zoom animation were taken from Code Institutes - Love Running.
