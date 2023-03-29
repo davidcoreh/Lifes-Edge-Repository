@@ -158,7 +158,7 @@ h2, h3 {
     color: #3a3a3a;
 }
 
-/* Contact Section - iframe map and contact info */
+/* Contact Section - contact info */
 
 #contact {
     height: 475px;
@@ -195,7 +195,7 @@ h2, h3 {
     background-color: rgba(58, 58, 58, .6);
 }
 
-/* Footer - Social Links, badges and Copyright */
+/* Footer - Social Links and Copyright */
 
 footer {
     height: 250px;
@@ -225,7 +225,7 @@ footer {
     text-align: center;
 }
 
-/* Adventures Page */
+/* Adventures Page - Activities Offered */
 
 #mountain-section {
     height: 875px;
@@ -309,7 +309,7 @@ ul {
     font-size: large;
 }
 
-/* Form Section */
+/* Form Section - Personalised Brochure Submition Form */
 
 #booking-section {
     height: 900px;
@@ -406,7 +406,7 @@ input {
 
 /* Media Queries */
 
-/* For Small to medium laptop screens 1375px wide or less */
+/* For screens 1375px wide or less */
 @media screen and (max-width: 1375px) {
 
     #nav-menu > li {
@@ -502,7 +502,7 @@ input {
 }
 
 
-/* For Medium size screens 1000px wide or less */
+/* For screens 1000px wide or less */
 @media screen and (max-width: 1000px) {
 
     nav {
@@ -595,6 +595,7 @@ input {
 
 }
 
+/* For screens 850px wide or less */
 @media screen and (max-width: 850px) {
     #booking-form {
         width: 65%;
@@ -605,7 +606,7 @@ input {
     }
 }
 
-/* For Tablet sized screens 768px or less */
+/* For screens 768px or less */
 @media screen and (max-width: 768px) {
 
     nav {
