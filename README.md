@@ -63,11 +63,11 @@
 
 ## Header
 - The page headers remain consistent across the website to provide a more positive and consistent user experience.
-<img src="assets/images/header.jpg" alt="Screenshot of page header">
+![Screenshot of page header](/assets/images/header.jpg)
 
 ## Thank You Messege
 - The thank you page is the action for the form.html submition form, and loads a thank you messege upon submition of the brochure form in the form.html file.
-<img src="assets/images/thanks.JPG">
+![Screenshot of thank you messege](assets/images/thanks.JPG)
 
 <!--style.css-->
 # style.css
@@ -79,10 +79,10 @@
 # Testing
 ## W3C Validation:
 - HTML - All files passed W3C validation with no warnings or errors in code.
-<img src="assets/images/w3c-html.PNG" alt="Screenshot of w3c html validation">
+![Screenshot of w3c html validation](/assets/images/w3c-html.PNG)
 
 - CSS - All files passed W3C validation with no warnings or errors in code.
-<img src="assets/images/w3c-css.PNG" alt="Screenshot of w3c css validation">
+![Screenshot of w3c css validation](/assets/images/w3c-css.PNG)
 
 ## LightHouse in Chrome DevTool's:
 - After analysing code in lighthouse, the site performs consistently and is very accessible on both desktop and mobile devices.
