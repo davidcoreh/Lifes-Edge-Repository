@@ -120,3 +120,7 @@
 
 <!-- Deployment -->
 # Deployment
+## GitHub Pages:
+- Firstly a final debugging and grammar check was carried out.
+- The website was deployed to github pages and is now live.
+- Live Link: https://davidcoreh.github.io/Lifes-Edge-Repository/
