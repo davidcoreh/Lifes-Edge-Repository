@@ -103,6 +103,12 @@
 ## Debugging with W3C Validation
 - Attempts at validating html and css code uncovered any substandard code to be fixed to pass validation.
 
+<!-- Bugs and Fixes -->
+# Bugs and Fixes
+## Break Points
+- After extensive testing in Chrome DevTools, unusual break points in the reponsivness of some elements were discovered.
+-Using media queries these break points were fixed by targeting the width of the device screen at the time the elements break.
+
 <!-- Credits -->
 # Credits
 - Parts of the code for home-page image zoom animation were taken from Code Institutes - Love Running.
