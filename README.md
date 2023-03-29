@@ -127,6 +127,10 @@
 - After initial testing it was clear the contact nav link only worked on index.html but not from other html files.
 - Checking href attributes showed a slash in the file path was causing an error. The file path was edited and contact nav links now work across all files.
 
+## Mountain Image at 425px
+- After initial testing it was clear the inspirational mountain image used in the about section started to behave unusually.
+- Applying visibility: hidden; to the element fixed the issue, as the image became unnessecary from 425px and down.
+
 [comment]: # (Credits)
 # Credits
 - Parts of the code for home-page image zoom animation were taken from Code Institutes - Love Running.
