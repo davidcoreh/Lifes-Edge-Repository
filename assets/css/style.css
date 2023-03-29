@@ -937,6 +937,7 @@ input {
         width: 100%;
         clear: both;
         margin: 0 auto;
+        visibility: hidden;
     }
 
     #contact {
