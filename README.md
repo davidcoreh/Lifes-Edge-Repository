@@ -15,15 +15,15 @@
 <img src="assets/images/header.jpg" alt="Screenshot of website header">
 
 ## Landing-Page Image:
-- The landing page image is a free to use winter mountain panarama stock photo from Pixabay.com. The landing image is designed to ilicit a positive response from users by using an animation that creates an inviting zoom effect on loading the page.
+- The landing page image is a free to use winter mountain panorama stock photo from Pixabay.com. The landing image is designed to illicit a positive response from users by using an animation that creates an inviting zoom effect on loading the page.
 <img src="assets/images/landing-image.jpg" alt="Screenshot of landing page image">
 
 ## Why Life's Edge Section:
-- This section is designed to present information about why this company is the right choice for the user. By using a combination of well structured text content and visual cues such as an inspirational image and Font Awesome Icons.
+- This section is designed to present information about why this company is the right choice for the user. By using a combination of well-structured text content and visual cues such as an inspirational image and Font Awesome Icons.
 <img src="assets/images/why.jpg" alt="Screenshot of Why section">
 
 ## Contact Section:
-- The purpose of the contact section is to provide all relevant contact information to the user, in a clear and simple fasion, using an easy to read color scheme and Font Awesome Icons.
+- The purpose of the contact section is to provide all relevant contact information to the user, in a clear and simple fashion, using an easy-to-read color scheme and Font Awesome Icons.
 <img src="assets/images/contact.jpg" alt="Screenshot of contact section">
 
 ## Page Footer:
