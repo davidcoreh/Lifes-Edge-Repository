@@ -76,13 +76,16 @@
 ## LightHouse in Chrome DevTool's:
 - After analysing code in lighthouse, the site performs consistently and is very accessible on both desktop and mobile devices.
 - index.html:
-<img src="assets/images/index-lighthouse.JPG">
+<img src="assets/images/index-lighthouse.JPG" alt="Screenshot of index.html lighthouse test">
 
 - adventures.html:
-<img src="assets/images/adventure-lighthouse.JPG">
+<img src="assets/images/adventure-lighthouse.JPG" alt="Screenshot of adventures.html lighthouse test">
 
 - form.html:
-<img src="assets/images/brochure-lighthouse.JPG">
+<img src="assets/images/brochure-lighthouse.JPG" alt="Screenshot of form.html lighthouse test">
+
+- thanks.html:
+<img src="assets/images/thanks-lighthouse.JPG" alt="Screenshot of thanks.html lighthouse test">
 
 <!-- Future Updates-->
 # Potential Future Updates
