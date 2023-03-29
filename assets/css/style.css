@@ -404,6 +404,17 @@ input {
     display: grid; 
 }
 
+#thank-you-messege {
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#thank-you-messege > h2 p {
+    text-align: center;
+    color: beige;
+}
+
 /* Media Queries */
 
 /* For screens 1375px wide or less */
