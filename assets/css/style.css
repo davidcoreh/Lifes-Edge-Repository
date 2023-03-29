@@ -415,6 +415,7 @@ input {
 }
 
 #thank-you-messege > h3 {
+    font-size: xx-large;
     text-align: center;
     color: beige;
 }
