@@ -51,7 +51,7 @@
 <img src="assets/images/header.jpg" alt="Screenshot of page header">
 
 ## Submition Form:
-- The form.html file consists of a background image to cover the view port and various inputs for submiting information. The purpose of this file is to provide a form for the user to submit to recieve a personalised brochure based on there area of interest, so the user can view price breakdowns and cater a package to suit their needs.
+- The form.html file consists of a background image to cover the view port and various inputs for submitting information. The purpose of this file is to provide a form for the user to submit to receive a personalised brochure based on their area of interest, so the user can view price breakdowns and cater a package to suit their needs.
 <img src="assets/images/booking-form.PNG" alt="Screenshot of booking form">
 
 ## Page Footer:
@@ -74,7 +74,7 @@
 <img src="assets/images/w3c-css.PNG" alt="Screenshot of w3c css validation">
 
 ## LightHouse in Chrome DevTool's:
-- After analysing code in lighthouse the site performs consistently and is very accessible on both desktop and mobile devices.
+- After analysing code in lighthouse, the site performs consistently and is very accessible on both desktop and mobile devices.
 - index.html:
 <img src="assets/images/index-lighthouse.JPG">
 
@@ -87,10 +87,10 @@
 <!-- Future Updates-->
 # Potential Future Updates
 ## Gallery Section:
-- A gallery section would be an exellent update to make to the site in future to add more positive user experience to the site, as past client images will attract new clients to the company and its services, while also making the site even more appealing to the user visually.
+- A gallery section would be an excellent update to make to the site in future to add more positive user experience to the site, as past client images will attract new clients to the company and its services, while also making the site even more appealing to the user visually.
 
 ## Review section:
-- A review section would make an exellent future update to the site, as past client reviews are likly to convince new and existing clients of not only the benefits of using Life's Edge services but also peace of mind in booking services knowing many past clients have a positive experience to share with others.
+- A review section would make an excellent future update to the site, as past client reviews are likely to convince new and existing clients of not only the benefits of using Life's Edge services but also peace of mind in booking services knowing many past clients have a positive experience to share with others.
 
 ## Video Testimonials:
 - In addition to a review section, a section for video testimonials from clients as they carry out the activities of their choice will be a positive future update to the website, as this will promote attaining new clients and gives new and existing clients a real look at what Life's Edge are offering.
@@ -98,7 +98,7 @@
 <!-- Debugging -->
 # Debugging
 ## Debugging with DevTools 
-- Chrome DevTools were used in the debugging process to find and fix unusual behavior, and while implementing reponsive design for different device widths.
+- Chrome DevTools were used in the debugging process to find and fix unusual behaviour, and while implementing responsive design for different device widths.
 
 ## Debugging with W3C Validation
 - Attempts at validating html and css code uncovered any substandard code to be fixed to pass validation.
