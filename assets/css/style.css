@@ -90,7 +90,7 @@ h2, h3 {
     animation-fill-mode: forwards;
 }
 
-/* Main-image Animation */
+/* Main-image Animation - Credit: CI's Love Running */
 
 @keyframes image-motion {
     from {
