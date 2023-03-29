@@ -407,6 +407,7 @@ input {
 /* Thank you page */
 #thank-you-messege {
     text-align: center;
+    font-size: xx-large;
     width: 100%;
     height: 600px;
     margin: 150px auto;
