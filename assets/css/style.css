@@ -912,8 +912,8 @@ input {
     }
 }
 
-/* For screens of 397px or less */
-@media screen and (max-width: 397px) {
+/* For screens of 400px or less */
+@media screen and (max-width: 400px) {
 
     nav {
         clear: both;
