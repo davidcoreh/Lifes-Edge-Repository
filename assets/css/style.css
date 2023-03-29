@@ -411,7 +411,7 @@ input {
     margin: 0 auto;
 }
 
-#thank-you-messege > h2 {
+#thank-you-messege > h3 {
     text-align: center;
     color: beige;
 }
