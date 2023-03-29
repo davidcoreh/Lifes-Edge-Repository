@@ -16,47 +16,47 @@
 
 ## Landing-Page Image:
 - The landing page image is a free to use winter mountain panorama stock photo from Pixabay.com. The landing image is designed to illicit a positive response from users by using an animation that creates an inviting zoom effect on loading the page.
-<img src="assets/images/landing-image.jpg" alt="Screenshot of landing page image">
+![Screenshot of landing page image](/assets/images/landing-image.jpg)
 
 ## Why Life's Edge Section:
 - This section is designed to present information about why this company is the right choice for the user. By using a combination of well-structured text content and visual cues such as an inspirational image and Font Awesome Icons.
-<img src="assets/images/why.jpg" alt="Screenshot of Why section">
+![Screenshot of Why section](/assets/images/why.jpg)
 
 ## Contact Section:
 - The purpose of the contact section is to provide all relevant contact information to the user, in a clear and simple fashion, using an easy-to-read color scheme and Font Awesome Icons.
-<img src="assets/images/contact.jpg" alt="Screenshot of contact section">
+![Screenshot of contact section](/assets/images/contact.jpg)
 
 ## Page Footer:
 - The page footer consists of links to social media sites that open in a new tab and are made more visually appealing using official logos of each social media site.
-<img src="assets/images/footer.jpg" alt="Screenshot of page footer">
+![Screenshot of page footer](/assets/images/footer.jpg)
 
 <!--adventures.html-->
 # adventures.html
 ## Page header:
 - The page headers remain consistent across the website to provide a more positive and consistent user experience.
-<img src="assets/images/header.jpg" alt="Screenshot of page header">
+![Screenshot of page header](/assets/images/header.jpg)
 
 ## Adventures Page Content:
 - The adventures.html file consists of a background image of a climber covering the width of the viewport, with lists containing all the activities Life's Edge offers its clients, designed to be clear, informative and visually appealing to the user.
-<img src="assets/images/adventures-page.jpg" alt="Screenshot of adventures page content">
+![Screenshot of adventures page content](/assets/images/adventures-page.jpg)
 
 ## Page Footer:
 - The footers remain consistent across the website to provide a more positive and consistent user experience.
-<img src="assets/images/footer.jpg" alt="Screenshot of page footer">
+![Screenshot of page footer](/assets/images/footer.jpg)
 
 <!--form.html-->
 # form.html
 ## Page header:
 - The page headers remain consistent across the website to provide a more positive and consistent user experience.
-<img src="assets/images/header.jpg" alt="Screenshot of page header">
+![Screenshot of page header](/assets/images/header.jpg)
 
 ## Submition Form:
 - The form.html file consists of a background image to cover the view port and various inputs for submitting information. The purpose of this file is to provide a form for the user to submit to receive a personalised brochure based on their area of interest, so the user can view price breakdowns and cater a package to suit their needs.
-<img src="assets/images/booking-form.PNG" alt="Screenshot of booking form">
+![Screenshot of booking form](/assets/images/booking-form.PNG)
 
 ## Page Footer:
 - The footers remain consistent across the website to provide a more positive user experience.
-<img src="assets/images/footer.jpg" alt="Screenshot of page footer">
+![Screenshot of page footer](/assets/images/footer.jpg)
 
 <!-- thanks.html -->
 # thanks.html 
