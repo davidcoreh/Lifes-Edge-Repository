@@ -12,7 +12,7 @@
 ## Page Header:
 - The header of the webpage consists of a Main Life's Edge Logo and Navigation Bar. The logo acts as a homepage link and uses the Bebas Neue font and an Icon from Font Awesome.
  - The Navigation Bar consists of links to the HOME, ADVENTURES, BOOKING and CONTACT sections of the website.
-<img src="assets/images/header.jpg" alt="Screenshot of website header">
+![Screenshot of website header](/assets/images/header.jpg)
 
 ## Landing-Page Image:
 - The landing page image is a free to use winter mountain panorama stock photo from Pixabay.com. The landing image is designed to illicit a positive response from users by using an animation that creates an inviting zoom effect on loading the page.
