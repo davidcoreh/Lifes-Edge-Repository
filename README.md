@@ -138,4 +138,4 @@
 - Firstly a final debugging and grammar check was carried out.
 - The website was deployed to github pages and is now live.
 - The live website behaves as intended with no funtionality issues found.
-- Live Link: https://davidcoreh.github.io/Lifes-Edge-Repository/
+[Live Link](https://davidcoreh.github.io/Lifes-Edge-Repository/)
