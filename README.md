@@ -67,7 +67,7 @@
 
 ## Thank You Messege
 - The thank you page is the action for the form.html submition form, and loads a thank you messege upon submition of the brochure form in the form.html file.
-![Screenshot of thank you messege](assets/images/thanks.JPG)
+![Screenshot of thank you messege](assets/images/thanks.jpg)
 
 [comment]: # (style.css)
 # style.css
@@ -87,16 +87,16 @@
 ## LightHouse in Chrome DevTool's:
 - After analysing code in lighthouse, the site performs consistently and is very accessible on both desktop and mobile devices.
 - index.html:
-![Screenshot of index.html lighthouse test](/assets/images/index-lighthouse.JPG)
+![Screenshot of index.html lighthouse test](/assets/images/index-lighthouse.jpg)
 
 - adventures.html:
-![Screenshot of adventures.html lighthouse test](/assets/images/adventure-lighthouse.JPG)
+![Screenshot of adventures.html lighthouse test](/assets/images/adventure-lighthouse.jpg)
 
 - form.html:
-![Screenshot of form.html lighthouse test](/assets/images/brochure-lighthouse.JPG)
+![Screenshot of form.html lighthouse test](/assets/images/brochure-lighthouse.jpg)
 
 - thanks.html:
-![Screenshot of thanks.html lighthouse test](/assets/images/thanks-lighthouse.JPG)
+![Screenshot of thanks.html lighthouse test](/assets/images/thanks-lighthouse.jpg)
 
 [comment]: # (Future Updates)
 # Potential Future Updates
