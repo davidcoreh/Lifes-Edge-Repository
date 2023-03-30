@@ -11,7 +11,7 @@
 # index.html
 ## Page Header:
 - The header of the webpage consists of a Main Life's Edge Logo and Navigation Bar. The logo acts as a homepage link and uses the Bebas Neue font and an Icon from Font Awesome.
- - The Navigation Bar consists of links to the HOME, ADVENTURES, BOOKING and CONTACT sections of the website.
+ - The Navigation Bar consists of links to the HOME, ADVENTURES, Brochure and CONTACT sections of the website.
 ![Screenshot of website header](/assets/images/header.jpg)
 
 ## Landing-Page Image:
