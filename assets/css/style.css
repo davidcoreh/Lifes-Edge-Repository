@@ -813,6 +813,10 @@ input {
     #submit-button {
         width: 70%;
     }
+
+    #middle-about {
+        visibility: hidden;
+    }
 }
 
 /* For screens of 535px or less */
