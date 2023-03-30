@@ -79,10 +79,10 @@
 # Testing
 ## W3C Validation:
 - HTML - All files passed W3C validation with no warnings or errors in code.
-![Screenshot of w3c html validation](/assets/images/w3c-html.PNG)
+![Screenshot of w3c html validation](/assets/images/w3c-html.png)
 
 - CSS - All files passed W3C validation with no warnings or errors in code.
-![Screenshot of w3c css validation](/assets/images/w3c-css.PNG)
+![Screenshot of w3c css validation](/assets/images/w3c-css.png)
 
 ## LightHouse in Chrome DevTool's:
 - After analysing code in lighthouse, the site performs consistently and is very accessible on both desktop and mobile devices.
