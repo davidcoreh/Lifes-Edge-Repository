@@ -117,6 +117,9 @@
 ## Debugging with W3C Validation
 - Attempts at validating html and css code uncovered any substandard code to be fixed to pass validation.
 
+## Debugging with Device Testing
+- After testing on both desktop and mobile devices some unwanted breakpoints that did not appear in devools appeared. This allowed for further adjustment of media queries to account for this.
+
 [comment]: # (Bugs and Fixes)
 # Bugs and Fixes
 ## Break Points
