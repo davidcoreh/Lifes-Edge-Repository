@@ -142,7 +142,7 @@
 [comment]: # (Deployment)
 # Deployment
 ## GitHub Pages:
-- Firstly a final debugging and grammar check was carried out.
+- Firstly a debugging and grammar check was carried out.
 - The website was deployed to github pages and is now live.
-- The live website behaves as intended with no funtionality issues found.
+- The live website behaves as intended with no functionality issues found.
 - [Link to live website.](https://davidcoreh.github.io/Lifes-Edge-Repository/)
