@@ -52,7 +52,7 @@
 
 ## Submition Form:
 - The form.html file consists of a background image to cover the view port and various inputs for submitting information. The purpose of this file is to provide a form for the user to submit to receive a personalised brochure based on their area of interest, so the user can view price breakdowns and cater a package to suit their needs.
-![Screenshot of booking form](/assets/images/booking-form.PNG)
+![Screenshot of booking form](/assets/images/booking-form.png)
 
 ## Page Footer:
 - The footers remain consistent across the website to provide a more positive user experience.
