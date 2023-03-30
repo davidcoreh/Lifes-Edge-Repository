@@ -1039,3 +1039,9 @@ input {
         font-size: larger;
     }
 }
+
+@media screen and (max-width: 377px) {
+    #about-section {
+        height: 1000px;
+    }
+}
