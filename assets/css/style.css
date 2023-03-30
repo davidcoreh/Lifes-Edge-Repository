@@ -817,6 +817,10 @@ input {
     #middle-about {
         visibility: hidden;
     }
+    
+    #about-section {
+        height: 700px;
+    }
 }
 
 /* For screens of 535px or less */
